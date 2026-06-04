@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: jdt17.spring.dasar
+  banner:
+    location: spring-banner.txt
+  main:
+    allow-bean-definition-overriding: true
